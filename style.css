@@ -412,7 +412,7 @@ a.readmore:hover {
 }
 
 .mainmenu-area {
-    background: #ffffff;
+    background: #;
     position: relative;
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
@@ -437,7 +437,7 @@ a.readmore:hover {
 }
 
 .is-sticky .navbar-brand > img {
-    max-width: 80%;
+    max-width: 70%;
 }
 
 ul#nav {
@@ -483,7 +483,7 @@ ul#nav li.active a {
 }
 
 .menu-toggle.full {
-    border: 1px solid;
+    
     height: 40px;
     letter-spacing: 2px;
     padding-top: 8px;
@@ -491,7 +491,7 @@ ul#nav li.active a {
     right: 15px;
     text-align: center;
     top: 20px;
-    width: 110px;
+    width: 80px;
 }
 
 .is-sticky .menu-toggle.full {
